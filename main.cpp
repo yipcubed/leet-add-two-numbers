@@ -1,3 +1,7 @@
+// Live coding problems, watch at
+// https://www.twitch.tv/yipcubed
+// https://www.youtube.com/channel/UCTV_UOPu7EWXvYWsBFxMsSA/videos
+
 #include <iostream>
 
 using namespace std;
